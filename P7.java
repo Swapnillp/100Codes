@@ -1,4 +1,4 @@
-//check prime number
+//check prime number.
 import java.util.Scanner;
 class P7{
     public static boolean checkPrime(int no){
