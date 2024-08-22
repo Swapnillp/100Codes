@@ -17,6 +17,11 @@ class P35{
         System.out.println(str1.length());
         //concatanation
         System.out.println(str +" "+str1);
+        //charAt
+        for(int i=0;i<str1.length();i++){
+        System.out.print(str1.charAt(i)+" ");
+
+        }
 
     }
 }
