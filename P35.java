@@ -13,5 +13,7 @@ class P35{
         Scanner sc=new Scanner(System.in);
         String str2=sc.nextLine();
         System.out.println(str2);
+        //length fun
+        System.out.println(str1.length());
     }
 }
