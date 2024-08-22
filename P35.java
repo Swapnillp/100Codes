@@ -15,5 +15,8 @@ class P35{
         System.out.println(str2);
         //length fun
         System.out.println(str1.length());
+        //concatanation
+        System.out.println(str +" "+str1);
+
     }
 }
