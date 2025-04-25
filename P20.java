@@ -5,7 +5,7 @@ class P20{
         int start=0;
         int end=arr.length-1;
         while(start<=end){
-            int mid=start+end;
+            int mid = start + (end - start) / 2;
             //comparision
             //mid part
             if(arr[mid]==key){
